@@ -21,7 +21,7 @@ stage('Run') {
 steps {
 
 //echo "HelloWorld"
-  bat 'java HelloWorld"
+  bat 'java HelloWorld'
 }
 }
 }
